@@ -1,0 +1,56 @@
+---
+title: "HW 4 - Multinomial logistic regression"
+subtitle: "STA 210 - Spring 2022"
+author: "Add your name here"
+date: "Add the date here"
+format: pdf
+editor: visual
+---
+
+# Setup
+
+Load packages and data:
+
+```{r load-pkg}
+#| message: false
+
+# load packages
+library(tidyverse)
+library(tidymodels)
+library(knitr)
+```
+
+# Exercises
+
+## Exercise 1
+
+
+\pagebreak
+
+## Exercise 2
+
+
+\pagebreak
+
+## Exercise 3
+
+
+\pagebreak
+
+## Exercise 4
+
+
+\pagebreak
+
+## Exercise 5
+
+
+\pagebreak
+
+## Exercise 6
+
+
+\pagebreak
+
+## Exercise 7
+
