@@ -11,13 +11,16 @@ editor: visual
 
 Load packages and data:
 
-```{r load-pkg}
+```{r load-pkg-data}
 #| message: false
 
-# load packages
+# load packages and data
 library(tidyverse)
 library(tidymodels)
 library(knitr)
+
+ew <- read_csv(here::here("data/eyewitness.csv")) %>%
+  mutate(id = as_factor(id))
 ```
 
 # Exercises
